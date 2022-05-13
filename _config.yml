@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Gurshaant 
-middle_name: Singh
+middle_name:
 last_name: Malik
 email: garymalik8080@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -128,7 +128,7 @@ plugins:
 
 scholar:
 
-  last_name: Einstein
+  last_name: Malik
 
   style: apa
   locale: en

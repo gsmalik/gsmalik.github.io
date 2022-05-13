@@ -2,8 +2,8 @@
 layout: about
 title: about
 permalink: /
-description: AI Research Engineer @ Applied Brain Research
-description2: PhD @ University of Waterloo.
+description: <h4>ML Scientist 3 @ Applied Brain Research || PhD @ University of Waterloo</h4>
+description2: 
 
 profile:
   align: right
